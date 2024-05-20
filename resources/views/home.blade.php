@@ -12,10 +12,10 @@
         <nav class="navbar">
             <div>LOGONE PAZZESCO</div>
             <ul class="link-list">
-                <li><a href="">Chi siamo: AboutUs</a></li>
-                <li><a href="">Cosa facciamo: Mission</a></li>
-                <li><a href="">Con chi lo facciamo: Sponsor</a></li>
-                <li><a href="">Cosa vogliamo da te: Donation</a></li>
+                <li><a href="/about-us">Chi siamo: AboutUs</a></li>
+                <li><a href="/mission">Cosa facciamo: Mission</a></li>
+                <li><a href="/sponsor">Con chi lo facciamo: Sponsor</a></li>
+                <li><a href="/donation">Cosa vogliamo da te: Donation</a></li>
             </ul>
         </nav>
     </header>
