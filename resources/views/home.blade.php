@@ -12,10 +12,10 @@
         <nav class="navbar">
             <div>LOGONE PAZZESCO</div>
             <ul class="link-list">
-                <li><a href="/about-us">Chi siamo: AboutUs</a></li>
-                <li><a href="/mission">Cosa facciamo: Mission</a></li>
-                <li><a href="/sponsor">Con chi lo facciamo: Sponsor</a></li>
-                <li><a href="/donation">Cosa vogliamo da te: Donation</a></li>
+                <li><a href="{{ route('about') }}">Chi siamo: AboutUs</a></li>
+                <li><a href="{{ route('mission') }}">Cosa facciamo: Mission</a></li>
+                <li><a href="{{ route('sponsor') }}">Con chi lo facciamo: Sponsor</a></li>
+                <li><a href="{{ route('donation') }}">Cosa vogliamo da te: Donation</a></li>
             </ul>
         </nav>
     </header>
